@@ -8,10 +8,10 @@
 		<version>2.7.14</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cbta</groupId>
+	<groupId>com.common</groupId>
 	<artifactId>eureka-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>eurekaserver</name>
+	<version>1.0.0</version>
+	<name>eureka-server</name>
 	<description>eureka-server</description>
 	<properties>
 		<java.version>11</java.version>
